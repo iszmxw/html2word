@@ -1,0 +1,15 @@
+{
+  "name": "html2word",
+  "version": "1.0.0",
+  "description": "",
+  "main": "html2word.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "iszmxw",
+  "license": "ISC",
+  "dependencies": {
+    "html-docx-js": "^0.3.1"
+  }
+}
